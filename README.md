@@ -13,6 +13,8 @@ This mobile app is designed to assist a blood donation association in Algeria. I
 - JSON Data: A large JSON file is used to filter and manage wilaya (province) data.
 
 ## Screenshot
+![Home Page](https://github.com/sabuuuu/lifeDrop/blob/main/Screenshot_20230909-174226.png)
+![Details Page](https://github.com/sabuuuu/lifeDrop/blob/main/Screenshot_20230909-174229.png)
 
 ## What I Learned
 - React Native: Gained experience in building cross-platform mobile applications.
