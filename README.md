@@ -17,6 +17,8 @@ This mobile app is designed to assist a blood donation association in Algeria. I
 <p float="left">
   <img src="https://github.com/sabuuuu/lifeDrop/blob/main/Screenshot_20230909-174226.png" alt="Blood Donation App Screenshot" height="400">
   <img src="https://github.com/sabuuuu/lifeDrop/blob/main/Screenshot_20230909-174229.png" alt="Blood Donation App Screenshot" height="400">
+  <img src="https://github.com/sabuuuu/lifeDrop/blob/main/Screenshot_20230909-174232.png" alt="Blood Donation App Screenshot" height="400">
+  <img src="https://github.com/sabuuuu/lifeDrop/blob/main/Screenshot_20230909-174235.png" alt="Blood Donation App Screenshot" height="400">
 </p>
 
 ## What I Learned
