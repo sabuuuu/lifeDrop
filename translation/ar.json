@@ -1,0 +1,54 @@
+{
+    "greeting": "Hello",
+    "homeTitle": "ماذا تريد أن تفعل؟",
+    "buttonOne":"تبرع بالدم",
+    "buttonTwo":"بحاجة الى الدم",
+    "nombreInscrits":"عدد المسجلين :",
+    "informations":"معلومات مفيدة",
+
+    "donnerTitre":"تفاصيل التبرع بالدم",
+    "donnerInfo":"معلوماتك",
+    "donnerNom":"اللقب",
+    "donnerPrenom":"الاسم",
+    "donnerAnonyme":"مجهول",
+    "donnerAge":"العمر *",
+    "age":"العمر  ",
+    "typeSang":"فصيلة الدم *",
+    "groupe":"فصيلة الدم ",
+    "rh":"الريسوس",
+    "donnerAdresse":"العنوان *",
+    "wilaya":"الولاية",
+    "daira":"البلدية",
+    "donnerNum":"رقم الهاتف *",
+    "num":"رقم الهاتف",
+    "donnerButton":"تابع ",
+
+    "success":"تم حفظ المعلومات الخاصة بك !",
+    "fermer":"اغلاق",
+
+    "rechercheTitre":"بحث سريع",
+    "rechercheButton":"بحث",
+    "bigTitle":"معلومات المتبرعين",
+
+    "besoinTitre":"معلومات المتبرعين",
+    "resultats":"نتائج البحث",
+    "besoinNum":"رقم الهاتف",
+    "call":"للإتصال",
+
+    "rechercheNotif":"لم يتم العثور على متبرع.",
+    "langue":"غير اللغة",
+
+    "contact":"تواصل معنا",
+    "email":"البريد الإلكتروني",
+    "message":"الرسالة",
+    "envoyer":"إرسال",
+    "contactNotif":"تم ارسال رسالتك بنجاح !",
+    "vNom":"الاسم",
+    "vEmail":"بريد إلكتروني",
+    "vMessage":"رسالتك",
+
+    "annonce":"نصيحة : ",
+    "annonceM":" نرجوا عدم التسجيل بالاسم الحقيقي للحفاظ على الخصوصية وعدم الازعاج و بالأخص النساء.",
+
+    "rib":"لتبرعاتكم, رقم الحساب البنكي"
+  }

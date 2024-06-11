@@ -1,0 +1,55 @@
+{
+    "greeting": "Bonjour",
+    "homeTitle": "Que voulez vous faire?",
+    "buttonOne":"donner du sang",
+    "buttonTwo":"besoin de sang",
+    "nombreInscrits":"nombre d'inscrits :",
+    "informations":"informations utiles",
+
+    "donnerTitre":"Détails du don de sang",
+    "donnerInfo":"Vos informations",
+    "donnerNom":"Nom",
+    "donnerPrenom":"Prénom",
+    "donnerAnonyme":"Anonyme",
+    "donnerAge":"Age *",
+    "age":"Age ",
+    "typeSang":"Type de sang *",
+    "groupe":"Groupe Sanguin ",
+    "rh":"Rhésus",
+    "donnerAdresse":"Adresse *",
+    "wilaya":"Wilaya",
+    "daira":"Commune",
+    "donnerNum":"Numéro de téléphone *",
+    "num":"Numéro de téléphone ",
+    "donnerButton":"Valider",
+
+    "success":"Vos informations ont été enregistrées !",
+    "fermer":"Fermer",
+
+    "rechercheTitre":"Recherche Rapide",
+    "rechercheButton":"Recherche",
+    "bigTitle":"Informations Nécessaires",
+
+    "besoinTitre":"informations sur les donneurs",
+    "resultats":"résultats de la recherche",
+    "besoinNum":"Numéro",
+    "call":"Appeler",
+
+    "rechercheNotif":"Aucun donneur trouvé.",
+    "langue":"Langue",
+
+    "contact":"Contactez-nous",
+    "email":"Email",
+    "message":"Message",
+    "envoyer":"Envoyer",
+    "contactNotif":"Votre message a été envoyé avec succès !",
+    "vNom":"Votre nom",
+    "vEmail":"Votre email",
+    "vMessage":"Votre message",
+
+    "annonce":"Conseil: ",
+    "annonceM":"S'il vous plaît, ne vous enregistrez pas avec vos vrais noms pour préserver la confidentialité, surtout pour les femmes.",
+
+    "rib": "Pour vos dons, voici notre RIB :"
+  }
+  

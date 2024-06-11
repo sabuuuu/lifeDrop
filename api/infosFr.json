@@ -1,0 +1,98 @@
+[
+    {
+      "id": "1",
+      "title": "Quelle est la limite d'âge ? ",
+      "content": "Les donneurs peuvent être âgés entre 18 et 60 ans"
+    },
+    {
+      "id": "2",
+      "title": "Jusqu'à quel âge peut-on effectuer le premier don ? ",
+      "content": "60 ans." 
+    },
+    {
+      "id": "3",
+      "title": "Le don du sang est-il un acte totalement sécurisé?",
+      "content" :"L'agence nationale du sang doit assurer la sécurité des donneurs comme des receveurs dans des conditions optimales: ainsi, le matériel utilisé (aiguille, tubes, poches) est stérile et à usage unique."
+    },
+    {
+      "id": "4",
+      "title":"Quels documents dois-je apporter pour effectuer un don du sang?",
+      "content": "S'il s'agit d'un premier don, vous devez apporter un document attestant de votre identité. Le carnet de santé est facultatif. Si vous avez déjà effectué un ou plusieurs dons et que vous possédez une carte de donneur, vous devez vous en munir lors de la collecte."
+    },
+    {
+      "id": "5",
+      "title": "Y a-t-il un moment idéal dans la journée pour donner son sang? ",
+      "content": "De préférence après une collation et quand on est en forme."
+    },
+    {
+      "id": "6",
+      "title": "Faut-il être à jeun pour donner son sang?",
+      "content":"Au contraire, un petit-déjeuner ou déjeuner, en évitant matières grasses et boissons alcoolisées, permet d'éviter la plupart des malaises. Une bonne hydratation est également bénéfique : ne pas hésiter à boire de l'eau ou des jus de fruits avant et après le don. Une collation vous sera d’ailleurs servie à son issue."
+    },
+    {
+      "id": "7",
+      "title": "Faut-il peser un poids minimum ou maximum pour faire un don? ",
+      "content": "Il faut donner au minimum 400 ml de sang pour qu'une poche contienne la dose thérapeutique suffisante. On peut donner 13 % de son volume sanguin circulant. Le poids minimum pour donner est de 50 kg. Ce poids minimum garantit la sécurité du donneur et l'efficacité de la transfusion. A l'inverse, il apparaît difficile d'établir un poids maximum pour donner son sang. Là encore, seul le médecin de collecte pourra donner son accord, au cas par cas. En effet, au-delà des difficultés d’accès aux veines entraînées par la surcharge pondérale, l'obésité peut aussi être associée à d’autres pathologies susceptibles de contre-indiquer le don"
+    },
+    {
+      "id": "8",
+      "title": "Combien de dons peut-on faire par an ?",
+      "content":"Les hommes peuvent faire 6 dons de sang total par an avec un intervalle de 8 semaines entre 2 dons. Les femmes peuvent faire 4 dons de sang total par an avec un intervalle de 8 semaines entre 2 dons."
+    },
+    {
+      "id": "9",
+      "title": "Combien de temps faut-il prévoir? ",
+      "content": "Le prélèvement en lui même dure 10 minutes. De l'arrivée au départ il faut compter environ 45 minutes, le temps de consulter le médecin présent à la collecte et de prendre une collation. "
+    },
+    {
+      "id": "10",
+      "title": "Pourquoi a-t-on besoin de sang?",
+      "content": "Les globules rouges sont essentiellement utilisés en hématologie (médecine qui traite les maladies du sang) et cancérologie. Lorsque la chimiothérapie détruit les cellules de la moelle osseuse, on transfuse ainsi aux malades des plaquettes et/ou des globules rouges. Les globules rouges sont également transfusés en cas d’hémorragies importantes lors d’un accident, d’une opération, d’anémie importante ou d’un accouchement. "
+    },
+    {
+      "id": "11",
+      "title": "Comment s'effectue le test d'hémoglobine ? ",
+      "content": "Il est effectué avant le don par une piqûre au doigt (pour les nouveaux donneurs ou les personnes qui n'ont pas donné depuis 2 ans, ainsi qu'auprès des donneurs dont le taux était à la limite des seuils lors du dernier don) "
+    },
+    {
+      "id": "12",
+      "title": "Quels sont les taux à obtenir pour ce test?",
+      "content": "Pour les femmes : il faut qu'il soit au dessus de 12,5g/l. Pour les hommes : il faut qu'il soit au dessus de 13 g/l"
+    },
+    {
+      "id": "13",
+      "title": "Les homosexuels peuvent ils donner leur sang ?",
+      "content": "Les homosexuels ne peuvent pas donner leur sang."
+    },
+    {
+      "id": "14",
+      "title": "Les transfusés peuvent ils donner leur sang ?",
+      "content": "Les transfusés ne peuvent pas donner leur sang. "
+    },
+    {
+      "id": "15",
+      "title": "Les asthmatiques sévères peuvent ils donner leur sang ?",
+      "content": "Non, ils ne le peuvent pas."
+    },
+    {
+      "id": "16",
+      "title": "Combien de temps se conserve le sang après la collecte ?",
+      "content": "Le sang total : 5 jours. Le plasma ou les plaquettes : 52 jours ou plus s'ils sont congelés"
+    },
+    {
+      "id": "17",
+      "title": "Problèmes post-don: que faire?",
+      "content": "Si, après avoir donné votre sang, vous présentez des signes d'infection (fièvre, rhume...) jusqu'à 15 jours après votre don, merci de contacter exclusivement par téléphone le centre le plus proche de chez vous. Une fois que vous nous aurez signalé ce fait, votre poche sera bloquée et détruite afin qu'elle ne puisse pas être transfusée à un patient."
+    },
+    {
+      "id": "18",
+      "title": "Que faire aprés avoir fait un don?",
+      "content":"Récupérer pendant 10 minutes. Ne faites pas d'efforts physique pedant au moins 2 heures. Prendre des fluides pour récupérer la perte."
+    },
+    {
+      "id": "19",
+      "title": "Qu'es ce qui pourrait être un empêchement pour faire un don?",
+      "content":"-Un donateur ne devrait pas donner plus d'une fois en trois mois. -Une personne récemment opérée ne peut pas faire de don. -Si un donneur a eu ou a l'une de ces maladies: tension artérielle, diabète, malarya au cours des deux dernières années, insuffisance rénale, hépatomégalie, maladie pulmonaire, fièvre, rhumatisme, maladie thyroïdienne, maladies héréditaires du sang et saignements. -Les femmes ne devraient pas être en période. -Les femmes n'auraient pas dû être enceintes. (3 mois après l'accouchement)."
+    }
+]
+  
